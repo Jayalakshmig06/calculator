@@ -1,2 +1,2 @@
 # calculator
-Using Python language creating a calculator
+Using Python language creating a calculator.
